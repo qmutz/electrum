@@ -51,9 +51,6 @@ from electrum.wallet import Wallet, Abstract_Wallet
 from electrum.logging import Logger
 
 from .installwizard import InstallWizard, WalletAlreadyOpenInMemory
-
-from electrum.lightning import LightningUI
-
 from .util import get_default_language, read_QIcon, ColorScheme
 from .main_window import ElectrumWindow
 from .network_dialog import NetworkDialog
