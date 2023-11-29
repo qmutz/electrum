@@ -6,6 +6,6 @@ dnspython
 jsonrpclib-pelix
 qdarkstyle<3.0
 aiorpcx>=0.17,<0.18
-aiohttp>=3.3.0
+aiohttp>=3.9.0
 aiohttp_socks
 certifi
