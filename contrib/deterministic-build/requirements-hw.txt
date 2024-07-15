@@ -112,7 +112,7 @@ requests==2.21.0 \
 safet==0.1.4 \
     --hash=sha256:522c257910f9472e9c77c487425ed286f6721c314653e232bc41c6cedece1bb1 \
     --hash=sha256:b152874acdc89ff0c8b2d680bfbf020b3e53527c2ad3404489dd61a548aa56a1
-setuptools==41.0.1 \
+setuptools==70.0.0 \
     --hash=sha256:a222d126f5471598053c9a77f4b5d4f26eaa1f150ad6e01dcf1a42e185d05613 \
     --hash=sha256:c7769ce668c7a333d84e17fe8b524b1c45e7ee9f7908ad0a73e1eda7e6a5aebf
 six==1.12.0 \
